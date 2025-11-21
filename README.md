@@ -25,8 +25,8 @@ This repository contains my **30-day computer vision challenge**, designed to im
 - Python, OpenCV, NumPy, Matplotlib
 - Optional: TensorFlow / PyTorch for deep learning tasks
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<username>/30-Day-Computer-Vision-Challenge.git
+
+DAY 1:
+https://github.com/manasha1232/BASICS-OF-computer-vision
+
 

@@ -29,6 +29,9 @@ This repository contains my **30-day computer vision challenge**, designed to im
 DAY 1:
 https://github.com/manasha1232/BASICS-OF-computer-vision
 
+DAY 2:
+https://github.com/manasha1232/-Real-Time-Yellow-Color-Detection-using-OpenCV-Beginner-Computer-Vision-Project-
+
 DAY 3:
 https://github.com/manasha1232/Real-Time-Face-Blur-Using-MediaPipe-OpenCV
 

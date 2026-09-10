@@ -1,52 +1,56 @@
-# 30-Day-Computer-Vision-Challenge
-30-Day Computer Vision Challenge: Daily hands-on projects to learn and practice computer vision concepts using Python, OpenCV, and related libraries. Each day focuses on a different task, from image processing and object detection to deep learning applications. Includes code, sample images, results, and reference resources
+# 30-Day Computer Vision Challenge 👁️
 
-# 30-Day Computer Vision Challenge
+A 30-day journey building hands-on computer vision and deep learning projects using Python, OpenCV, YOLO, and MediaPipe.
 
-## Overview
-This repository contains my **30-day computer vision challenge**, designed to improve practical skills in computer vision and deep learning. Each day focuses on a specific task or concept, providing code, input samples, output results, and reference resources.
+---
 
-## Objective
-- Learn key computer vision techniques step by step.
-- Build small projects every day to reinforce understanding.
-- Maintain a structured repository for future reference and portfolio showcase.
+## 📅 Project Tracker (7 / 30 Days Complete)
 
-## Key Features
-- Daily folders (Day-01 to Day-30) with:
-  - `code.py` or notebooks
-  - `images/` – input images for testing
-  - `results/` – output images, videos, or plots
-  - `resources/` – references, datasets, PDFs, or helpful links
-  - `README.md` – explanation of the day’s challenge
-- Main `README.md` with challenge overview and table of contents
-- `requirements.txt` with all dependencies for easy setup
+| Day | Project Name | Tech Stack | Link |
+| :---: | :--- | :--- | :---: |
+| **01** | Basics of Computer Vision | OpenCV, NumPy | [View Repo ↗](https://github.com/manasha1232/BASICS-OF-computer-vision) |
+| **02** | Real-Time Yellow Color Detection | OpenCV, HSV | [View Repo ↗](https://github.com/manasha1232/-Real-Time-Yellow-Color-Detection-using-OpenCV-Beginner-Computer-Vision-Project-) |
+| **03** | Real-Time Face Blur | MediaPipe, OpenCV | [View Repo ↗](https://github.com/manasha1232/Real-Time-Face-Blur-Using-MediaPipe-OpenCV) |
+| **04** | YOLO Object Tracking | YOLOv11, OpenCV | [View Repo ↗](https://github.com/manasha1232/YOLO_OBJECT_TRACKING) |
+| **05** | Driver Drowsiness & Yawning Monitor | MediaPipe, OpenCV | [View Repo ↗](https://github.com/manasha1232/Driver-Drowsiness-Yawning-Monitoring-System) |
+| **06** | Smart Shelf Restock Alert System | YOLOv11, OpenCV | [View Repo ↗](https://github.com/manasha1232/Smart_Shelf_Restock_Sysytem) |
+| **07** | Book Spine Scanner | YOLOv11, OpenCV | [View Repo ↗](https://github.com/manasha1232/book_spine_scanner) |
+| **08** | *Day 8 Project* | OpenCV | *Coming Soon* |
+| **09** | *Day 9 Project* | OpenCV | *Coming Soon* |
+| **10** | *Day 10 Project* | OpenCV | *Coming Soon* |
 
-## Technologies Used
-- Python, OpenCV, NumPy, Matplotlib
-- Optional: TensorFlow / PyTorch for deep learning tasks
+*(Add new days as you complete them!)*
 
+---
 
-DAY 1:
-https://github.com/manasha1232/BASICS-OF-computer-vision
+## 📁 Daily Project Template
 
-DAY 2:
-https://github.com/manasha1232/-Real-Time-Yellow-Color-Detection-using-OpenCV-Beginner-Computer-Vision-Project-
+For each day's project:
+```text
+Day-XX/
+├── code.py         # Main Python script
+├── requirements.txt # Project dependencies
+├── input/          # Test images/videos
+├── output/         # Results & output images
+└── README.md       # Project explanation
+```
 
-DAY 3:
-https://github.com/manasha1232/Real-Time-Face-Blur-Using-MediaPipe-OpenCV
+---
 
-DAY 4:
-https://github.com/manasha1232/YOLO_OBJECT_TRACKING
+## ⚡ Quickstart
 
-DAY 5:
-https://github.com/manasha1232/Driver-Drowsiness-Yawning-Monitoring-System
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/manasha1232/30-Day-Computer-Vision-Challenge.git
+   cd 30-Day-Computer-Vision-Challenge
+   ```
 
-DAY 6:
-https://github.com/manasha1232/Smart_Shelf_Restock_Sysytem
+2. **Install requirements:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-DAY 7:
-https://github.com/manasha1232/book_spine_scanner
+---
 
-
-
-
+## 👤 Author
+- **GitHub**: [@manasha1232](https://github.com/manasha1232)

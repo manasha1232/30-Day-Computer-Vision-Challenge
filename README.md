@@ -1,10 +1,13 @@
+Here is the complete, raw copy-pastable Markdown text for your `30-Day-Computer-Vision-Challenge` `README.md` file:
+
+```markdown
 <div align="center">
 
 # 👁️ 30-Day Computer Vision Challenge
 
 ### *30 Days • 30 Hands-On Projects • OpenCV, YOLOv11 & MediaPipe*
 
-[![Challenge Progress](https://img.shields.io/badge/Progress-7%2F30%20Days%20(23%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
+[![Challenge Progress](https://img.shields.io/badge/Progress-9%2F30%20Days%20(30%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![YOLOv11](https://img.shields.io/badge/YOLO-v11-orange?style=for-the-badge&logo=ultralytics&logoColor=white)](https://github.com/ultralytics/ultralytics)
@@ -16,7 +19,7 @@
 ### 📊 Challenge Progress Tracker
 
 ```text
-[██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 7 / 30 Days Completed (23.3%)
+[████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9 / 30 Days Completed (30.0%)
 ```
 
 ⭐ **If you find this repository useful for learning Computer Vision, please consider giving it a STAR!** ⭐
@@ -53,8 +56,8 @@ Each day contains:
 | :---: | :--- | :--- | :---: | :---: |
 | **06** | **Smart Shelf Restock Alert System** | YOLOv11, OpenCV, JSON | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/Smart_Shelf_Restock_Sysytem) |
 | **07** | **Book Spine Scanner & Cataloger** | YOLOv11, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/book_spine_scanner) |
-| **08** | **Document Scanner & Perspective Warper** | OpenCV, Contours | `UPCOMING` | ⏳ *In Progress* |
-| **09** | **Optical Flow Motion Vector Tracker** | OpenCV, Lucas-Kanade | `UPCOMING` | ⏳ *In Progress* |
+| **08** | **Document Scanner & Perspective Warper** | OpenCV, Contours | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/document_scanner_perspective_warper) |
+| **09** | **Optical Flow Motion Vector Tracker** | OpenCV, Lucas-Kanade | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/optical_flow_motion_tracker) |
 | **10** | **Virtual Hand Gesture Controller** | MediaPipe Hands, OpenCV | `UPCOMING` | ⏳ *In Progress* |
 
 ### 🚗 Phase 3: Traffic, Security & Motion Systems (Days 11–20)
@@ -79,6 +82,14 @@ Each day contains:
 ### 📚 [Day 07] Book Spine Scanner & Cataloger
 - **Repository**: [`book_spine_scanner`](https://github.com/manasha1232/book_spine_scanner)
 - **Highlights**: Scans bookshelves, computes spine dimensions & thickness categories (*Slim*, *Medium*, *Thick Volume*), extracts dominant color signatures, and exports structured JSON databases.
+
+### 📄 [Day 08] Document Scanner & Perspective Warper
+- **Repository**: [`document_scanner_perspective_warper`](https://github.com/manasha1232/document_scanner_perspective_warper)
+- **Highlights**: Detects 4-corner document boundaries on cluttered backgrounds, applies 4-point homography perspective warping, and generates CamScanner quality adaptive B&W and color magic scans.
+
+### 🌀 [Day 09] Optical Flow Motion Vector Tracker
+- **Repository**: [`optical_flow_motion_tracker`](https://github.com/manasha1232/optical_flow_motion_tracker)
+- **Highlights**: Features Sparse Lucas-Kanade feature trails with forward-backward error filtering, Farneback Dense flow HSV heatmaps with vector quiver overlays, and real-time 3-panel HUD telemetry.
 
 ---
 
@@ -106,3 +117,4 @@ pip install -r requirements.txt
 
 - **GitHub**: [@manasha1232](https://github.com/manasha1232)
 - **Star History**: Please click ⭐ at the top right if this project helps your CV journey!
+```

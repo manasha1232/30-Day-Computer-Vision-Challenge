@@ -62,7 +62,7 @@ Each day contains:
 | :---: | :--- | :--- | :---: | :---: |
 | **11** | **Self-Driving Lane Line Detector** | OpenCV, Hough Lines | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/self_driving_lane_line_detector) |
 | **12** | **Real-Time Object Dimension Measurer** | OpenCV, Contours | `UPCOMING` | [📁 View Repo](https://github.com/manasha1232/realtime_object_dimension_measurer) |
-| **13** | **Automated License Plate Recognition (ANPR)** | YOLOv11, OCR | `UPCOMING` | ⏳ *Planned* |
+| **13** | **Automated License Plate Recognition (ANPR)** | YOLOv11, OCR | `UPCOMING` | [📁 View Repo](https://github.com/manasha1232/anpr_license_plate_recognition) |
 | **14** | **Vehicle Speed Estimator** | YOLOv11, Centroid Tracking | `UPCOMING` | ⏳ *Planned* |
 | **15** | **AI Fitness Rep Counter & Pose Detector** | MediaPipe Pose, OpenCV | `UPCOMING` | ⏳ *Planned* |
 

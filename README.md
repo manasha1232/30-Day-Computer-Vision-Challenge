@@ -15,7 +15,7 @@
 
 ### 📊 Challenge Progress Tracker
 
-```text
+```
 [█████████████████████░░░░░░░░░░░░░░░░░░░░░░░] 15 / 30 Days Completed (50.0%)
 
 ```

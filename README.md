@@ -4,7 +4,7 @@
 
 ### *30 Days • 30 Hands-On Projects • OpenCV, YOLOv11 & MediaPipe*
 
-[![Challenge Progress](https://img.shields.io/badge/Progress-11%2F30%20Days%20(37%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
+[![Challenge Progress](https://img.shields.io/badge/Progress-15%2F30%20Days%20(50%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![YOLOv11](https://img.shields.io/badge/YOLO-v11-orange?style=for-the-badge&logo=ultralytics&logoColor=white)](https://github.com/ultralytics/ultralytics)
@@ -16,8 +16,7 @@
 ### 📊 Challenge Progress Tracker
 
 ```text
-[█████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░] 13 / 30 Days Completed (43.3%)
-```
+[█████████████████████░░░░░░░░░░░░░░░░░░░░░░░] 15 / 30 Days Completed (50.0%)
 
 ⭐ **If you find this repository useful for learning Computer Vision, please consider giving it a STAR!** ⭐
 

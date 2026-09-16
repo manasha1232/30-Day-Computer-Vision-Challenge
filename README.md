@@ -19,7 +19,7 @@
 [█████████████████████░░░░░░░░░░░░░░░░░░░░░░░] 15 / 30 Days Completed (50.0%)
 
 ⭐ **If you find this repository useful for learning Computer Vision, please consider giving it a STAR!** ⭐
-
+```
 </div>
 
 ---

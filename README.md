@@ -2,29 +2,31 @@
 
 # 👁️ 30-Day Computer Vision Challenge
 
-### *30 Days • 30 Hands-On Projects • OpenCV, YOLOv11 & MediaPipe*
+### *30 Days • 30 Hands-On Projects • OpenCV, YOLOv11, MediaPipe & PyTorch*
 
-[![Challenge Progress](https://img.shields.io/badge/Progress-15%2F30%20Days%20(50%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
+[![Challenge Progress](https://img.shields.io/badge/Progress-17%2F30%20Days%20(57%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![YOLOv11](https://img.shields.io/badge/YOLO-v11-orange?style=for-the-badge&logo=ultralytics&logoColor=white)](https://github.com/ultralytics/ultralytics)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
 
 ---
 
 ### 📊 Challenge Progress Tracker
 
+```text
+[████████████████████████░░░░░░░░░░░░░░░░░░░] 17 / 30 Days Completed (56.7%)
 ```
-[█████████████████████░░░░░░░░░░░░░░░░░░░░░░░] 15 / 30 Days Completed (50.0%)
 
-```
+⭐ **If you find this repository useful for learning Computer Vision, please consider giving it a STAR!** ⭐
+
 </div>
 
 ---
 
 ## 📌 Overview
 
-This repository is a curated **30-Day Computer Vision & Deep Learning Challenge**. It takes developers from core image processing fundamentals (filtering, edge detection, color spaces) to advanced real-world AI applications including multi-object tracking, real-time driver safety monitoring, retail shelf inventory auditing, and automated volume scanning.
+This repository is a curated **30-Day Computer Vision & Deep Learning Challenge**. It takes developers from core image processing fundamentals (filtering, edge detection, color spaces) to advanced real-world AI applications including multi-object tracking, real-time driver safety monitoring, retail shelf inventory auditing, deep learning facial sentiment recognition, and pixel-level semantic segmentation.
 
 Each day contains:
 - 💻 Fully functional, well-commented **Python source code**
@@ -54,16 +56,25 @@ Each day contains:
 | **09** | **Optical Flow Motion Vector Tracker** | OpenCV, Lucas-Kanade | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/optical_flow_motion_tracker) |
 | **10** | **Virtual Hand Gesture Controller** | MediaPipe Hands, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/virtual_hand_gesture_controller) |
 
-### 🚗 Phase 3: Traffic, Security & Motion Systems (Days 11–20)
+### 🚗 Phase 3: Traffic, Security & Motion Systems (Days 11–15)
 | Day | Project Title | Technologies | Status | Link |
 | :---: | :--- | :--- | :---: | :---: |
 | **11** | **Self-Driving Lane Line Detector** | OpenCV, Hough Lines | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/self_driving_lane_line_detector) |
-| **12** | **Real-Time Object Dimension Measurer** | OpenCV, Contours | `UPCOMING` | [📁 View Repo](https://github.com/manasha1232/realtime_object_dimension_measurer) |
+| **12** | **Real-Time Object Dimension Measurer** | OpenCV, Contours | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/realtime_object_dimension_measurer) |
 | **13** | **Automated License Plate Recognition (ANPR)** | YOLOv11, OCR | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/anpr_license_plate_recognition) |
-| **14** | **Vehicle Speed Estimator** | YOLOv11, Centroid Tracking | `COMPLETED` |[📁 View Repo]( https://github.com/manasha1232/vehicle_speed_estimator) |
-| **15** | **AI Fitness Rep Counter & Pose Detector** | MediaPipe Pose, OpenCV |`COMPLETED` |[📁 View Repo](https://github.com/manasha1232/ai_fitness_rep_counter) |
+| **14** | **Vehicle Speed Estimator** | YOLOv11, Centroid Tracking | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/vehicle_speed_estimator) |
+| **15** | **AI Fitness Rep Counter & Pose Detector** | MediaPipe Pose, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/ai_fitness_rep_counter) |
 
-*(Days 16–30: Deep Learning, Segmentation & Generative Vision Modules)*
+### 🧠 Phase 4: Deep Learning, Segmentation & Generative Vision (Days 16–30)
+| Day | Project Title | Technologies | Status | Link |
+| :---: | :--- | :--- | :---: | :---: |
+| **16** | **Real-Time Facial Emotion Recognizer** | PyTorch, CNN, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/realtime_facial_emotion_recognizer) |
+| **17** | **Semantic Image & Object Segmentation** | PyTorch, U-Net, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/semantic_image_segmentation) |
+| **18** | **Real-Time AI Background Matting** | DeepLabV3, OpenCV | `UPCOMING` | ⏳ *In Progress* |
+| **19** | **Neural Style Transfer Studio** | PyTorch, VGG19 | `UPCOMING` | ⏳ *Planned* |
+| **20** | **Image Inpainting & Object Removal** | OpenCV, Fast Marching | `UPCOMING` | ⏳ *Planned* |
+
+*(Days 21–30: Advanced Generative Vision, Transformer & Edge AI Modules)*
 
 ---
 
@@ -93,6 +104,30 @@ Each day contains:
 - **Repository**: [`self_driving_lane_line_detector`](https://github.com/manasha1232/self_driving_lane_line_detector)
 - **Highlights**: Autonomous vehicle lane tracking module using HSL color masking, Canny edge detection, Probabilistic Hough Lines, EMA curve smoothing, and Top-Down Bird's Eye View perspective warping.
 
+### 📏 [Day 12] Real-Time Object Dimension Measurer
+- **Repository**: [`realtime_object_dimension_measurer`](https://github.com/manasha1232/realtime_object_dimension_measurer)
+- **Highlights**: Real-time object dimension measurement system using reference scale calibration, rotated minimum bounding box fitting (`cv2.minAreaRect`), Euclidean distance geometry, and multi-unit outputs ($\text{mm}$, $\text{cm}$, $\text{in}$).
+
+### 🚗 [Day 13] Automated License Plate Recognition (ANPR)
+- **Repository**: [`anpr_license_plate_recognition`](https://github.com/manasha1232/anpr_license_plate_recognition)
+- **Highlights**: Enterprise ANPR module using morphological blackhat operations, Sobel X edge gradients, binarized character segmentation, OCR recognition, and gate security access control audit.
+
+### 🚘 [Day 14] Vehicle Speed Estimator & Radar
+- **Repository**: [`vehicle_speed_estimator`](https://github.com/manasha1232/vehicle_speed_estimator)
+- **Highlights**: Traffic velocity estimation system using Euclidean centroid tracking, dual virtual speed trap lines, real-world MPH/KMH radar calculation, and automated speeding violation alerts.
+
+### 🏋️ [Day 15] AI Fitness Rep Counter & Pose Detector
+- **Repository**: [`ai_fitness_rep_counter`](https://github.com/manasha1232/ai_fitness_rep_counter)
+- **Highlights**: AI Workout Trainer tracking 33 MediaPipe 3D pose keypoints, 3-point trigonometric knee joint angle computation, repetition state machine (UP <-> DOWN), squat depth form feedback, and live angle oscilloscope graphs.
+
+### 😀 [Day 16] Real-Time Facial Emotion Recognizer
+- **Repository**: [`realtime_facial_emotion_recognizer`](https://github.com/manasha1232/realtime_facial_emotion_recognizer)
+- **Highlights**: Deep learning facial expression classifier using PyTorch Convolutional Neural Networks (CNNs), 7 core emotion categories (Happy, Sad, Angry, Surprised, Neutral, Fear, Disgust), and live sentiment probability bar charts.
+
+### 🎨 [Day 17] Semantic Image & Object Segmentation
+- **Repository**: [`semantic_image_segmentation`](https://github.com/manasha1232/semantic_image_segmentation)
+- **Highlights**: Pixel-level semantic segmentation using PyTorch U-Net Encoder-Decoder Deep Neural Networks, multi-class color mask rendering, and DSLR Portrait Bokeh Background Blur matting.
+
 ---
 
 ## ⚡ Quickstart
@@ -107,6 +142,8 @@ pip install -r requirements.txt
 ```
 
 ---
+
+## 💡 Why Star This Repository?
 - 📖 **Comprehensive Reference**: 30 practical CV solutions with clean Python code.
 - 🏢 **Industry Relevant**: Focuses on real-world use cases (Retail, Safety, Automation, Security).
 - 🚀 **1-Click Runnable**: Includes sample test images for immediate testing.

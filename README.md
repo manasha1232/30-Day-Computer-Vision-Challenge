@@ -4,10 +4,11 @@
 
 ### *30 Days • 30 Hands-On Projects • OpenCV, YOLOv11, MediaPipe & PyTorch*
 
-[![Challenge Progress](https://img.shields.io/badge/Progress-17%2F30%20Days%20(57%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
+[![Challenge Progress](https://img.shields.io/badge/Progress-19%2F30%20Days%20(63%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Stars](https://img.shields.io/github/stars/manasha1232/30-Day-Computer-Vision-Challenge?style=for-the-badge&color=yellow)](https://github.com/manasha1232/30-Day-Computer-Vision-Challenge/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
 
 ---
@@ -15,7 +16,7 @@
 ### 📊 Challenge Progress Tracker
 
 ```text
-[████████████████████████░░░░░░░░░░░░░░░░░░░] 17 / 30 Days Completed (56.7%)
+[███████████████████████████░░░░░░░░░░░░░░░░] 19 / 30 Days Completed (63.3%)
 ```
 
 ⭐ **If you find this repository useful for learning Computer Vision, please consider giving it a STAR!** ⭐
@@ -26,7 +27,7 @@
 
 ## 📌 Overview
 
-This repository is a curated **30-Day Computer Vision & Deep Learning Challenge**. It takes developers from core image processing fundamentals (filtering, edge detection, color spaces) to advanced real-world AI applications including multi-object tracking, real-time driver safety monitoring, retail shelf inventory auditing, deep learning facial sentiment recognition, and pixel-level semantic segmentation.
+This repository is a curated **30-Day Computer Vision & Deep Learning Challenge**. It takes developers from core image processing fundamentals (filtering, edge detection, color spaces) to advanced real-world AI applications including multi-object tracking, real-time driver safety monitoring, retail shelf inventory auditing, deep learning facial sentiment recognition, pixel-level semantic segmentation, AI background matting, and neural style transfer.
 
 Each day contains:
 - 💻 Fully functional, well-commented **Python source code**
@@ -70,9 +71,9 @@ Each day contains:
 | :---: | :--- | :--- | :---: | :---: |
 | **16** | **Real-Time Facial Emotion Recognizer** | PyTorch, CNN, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/realtime_facial_emotion_recognizer) |
 | **17** | **Semantic Image & Object Segmentation** | PyTorch, U-Net, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/semantic_image_segmentation) |
-| **18** | **Real-Time AI Background Matting** | DeepLabV3, OpenCV | `UPCOMING` | ⏳ *In Progress* |
-| **19** | **Neural Style Transfer Studio** | PyTorch, VGG19 | `UPCOMING` | ⏳ *Planned* |
-| **20** | **Image Inpainting & Object Removal** | OpenCV, Fast Marching | `UPCOMING` | ⏳ *Planned* |
+| **18** | **Real-Time AI Background Matting** | DeepLabV3, PyTorch, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/realtime_ai_background_matting) |
+| **19** | **Neural Style Transfer Studio** | PyTorch, VGG19 | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/neural_style_transfer_studio) |
+| **20** | **Image Inpainting & Object Removal** | OpenCV, Fast Marching | `UPCOMING` | ⏳ *In Progress* |
 
 *(Days 21–30: Advanced Generative Vision, Transformer & Edge AI Modules)*
 
@@ -127,6 +128,14 @@ Each day contains:
 ### 🎨 [Day 17] Semantic Image & Object Segmentation
 - **Repository**: [`semantic_image_segmentation`](https://github.com/manasha1232/semantic_image_segmentation)
 - **Highlights**: Pixel-level semantic segmentation using PyTorch U-Net Encoder-Decoder Deep Neural Networks, multi-class color mask rendering, and DSLR Portrait Bokeh Background Blur matting.
+
+### 🎬 [Day 18] Real-Time AI Background Matting
+- **Repository**: [`realtime_ai_background_matting`](https://github.com/manasha1232/realtime_ai_background_matting)
+- **Highlights**: Real-time video alpha matting and virtual background replacement engine using PyTorch DeepLabV3, continuous soft alpha matte prediction, guided edge feathering, and studio scenery compositing.
+
+### 🎨 [Day 19] Neural Style Transfer Studio
+- **Repository**: [`neural_style_transfer_studio`](https://github.com/manasha1232/neural_style_transfer_studio)
+- **Highlights**: Deep learning Neural Style Transfer studio engine transforming photographs into master painter artwork (Van Gogh, Picasso, Monet, Ukiyo-e) using PyTorch VGG19 feature representations and Gram Matrix style loss minimization.
 
 ---
 

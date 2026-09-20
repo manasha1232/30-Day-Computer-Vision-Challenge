@@ -8,7 +8,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Stars](https://img.shields.io/github/stars/manasha1232/30-Day-Computer-Vision-Challenge?style=for-the-badge&color=yellow)](https://github.com/manasha1232/30-Day-Computer-Vision-Challenge/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
 
 ---
@@ -19,7 +18,7 @@
 [██████████████████████████████░░░░░░░░░░░░] 21 / 30 Days Completed (70.0%)
 ```
 
-⭐ **If you find this repository useful for learning Computer Vision, please consider giving it a STAR!** ⭐
+
 
 </div>
 

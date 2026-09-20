@@ -4,9 +4,11 @@
 
 ### *30 Days • 30 Hands-On Projects • OpenCV, YOLOv11, MediaPipe & PyTorch*
 
-[![Challenge Progress](https://img.shields.io/badge/Progress-19%2F30%20Days%20(63%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
+[![Challenge Progress](https://img.shields.io/badge/Progress-21%2F30%20Days%20(70%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Stars](https://img.shields.io/github/stars/manasha1232/30-Day-Computer-Vision-Challenge?style=for-the-badge&color=yellow)](https://github.com/manasha1232/30-Day-Computer-Vision-Challenge/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
 
 ---
@@ -14,10 +16,10 @@
 ### 📊 Challenge Progress Tracker
 
 ```text
-[███████████████████████████░░░░░░░░░░░░░░░░] 19 / 30 Days Completed (63.3%)
+[██████████████████████████████░░░░░░░░░░░░] 21 / 30 Days Completed (70.0%)
 ```
 
-
+⭐ **If you find this repository useful for learning Computer Vision, please consider giving it a STAR!** ⭐
 
 </div>
 
@@ -25,7 +27,7 @@
 
 ## 📌 Overview
 
-This repository is a curated **30-Day Computer Vision & Deep Learning Challenge**. It takes developers from core image processing fundamentals (filtering, edge detection, color spaces) to advanced real-world AI applications including multi-object tracking, real-time driver safety monitoring, retail shelf inventory auditing, deep learning facial sentiment recognition, pixel-level semantic segmentation, AI background matting, and neural style transfer.
+This repository is a curated **30-Day Computer Vision & Deep Learning Challenge**. It takes developers from core image processing fundamentals (filtering, edge detection, color spaces) to advanced real-world AI applications including multi-object tracking, real-time driver safety monitoring, retail shelf inventory auditing, deep learning facial sentiment recognition, pixel-level semantic segmentation, AI background matting, neural style transfer, image inpainting, and automated OMR exam scanning.
 
 Each day contains:
 - 💻 Fully functional, well-commented **Python source code**
@@ -71,9 +73,11 @@ Each day contains:
 | **17** | **Semantic Image & Object Segmentation** | PyTorch, U-Net, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/semantic_image_segmentation) |
 | **18** | **Real-Time AI Background Matting** | DeepLabV3, PyTorch, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/realtime_ai_background_matting) |
 | **19** | **Neural Style Transfer Studio** | PyTorch, VGG19 | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/neural_style_transfer_studio) |
-| **20** | **Image Inpainting & Object Removal** | OpenCV, Fast Marching | `UPCOMING` | ⏳ *In Progress* |
+| **20** | **Image Inpainting & Object Removal** | OpenCV, Fast Marching | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/image_inpainting_object_removal) |
+| **21** | **Real-Time OMR Exam Scanner** | OpenCV, Perspective Warp | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/omr_exam_scanner) |
+| **22** | **3D Point Cloud Reconstruction** | OpenCV, Stereo Disparity | `UPCOMING` | ⏳ *In Progress* |
 
-*(Days 21–30: Advanced Generative Vision, Transformer & Edge AI Modules)*
+*(Days 23–30: Advanced Generative Vision, Transformer & Edge AI Modules)*
 
 ---
 
@@ -134,6 +138,14 @@ Each day contains:
 ### 🎨 [Day 19] Neural Style Transfer Studio
 - **Repository**: [`neural_style_transfer_studio`](https://github.com/manasha1232/neural_style_transfer_studio)
 - **Highlights**: Deep learning Neural Style Transfer studio engine transforming photographs into master painter artwork (Van Gogh, Picasso, Monet, Ukiyo-e) using PyTorch VGG19 feature representations and Gram Matrix style loss minimization.
+
+### 🖌️ [Day 20] Image Inpainting & Object Removal
+- **Repository**: [`image_inpainting_object_removal`](https://github.com/manasha1232/image_inpainting_object_removal)
+- **Highlights**: Automated image reconstruction and defect removal system using OpenCV Fast Marching Method (Telea) and Navier-Stokes (NS) fluid dynamics boundary propagation algorithms.
+
+### 📝 [Day 21] Real-Time OMR Exam Scanner
+- **Repository**: [`omr_exam_scanner`](https://github.com/manasha1232/omr_exam_scanner)
+- **Highlights**: Automated Optical Mark Recognition (OMR) exam grading system featuring 4-corner document perspective warping, option bubble segmentation, non-zero pixel density scoring, answer key verification, and scorecard HUD dashboards.
 
 ---
 

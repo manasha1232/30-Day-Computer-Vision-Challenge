@@ -180,7 +180,7 @@ pip install -r requirements.txt
 
 ---
 
-## 💡 Why Star This Repository?
+
 - 📖 **Comprehensive Reference**: 30 practical CV solutions with clean Python code.
 - 🏢 **Industry Relevant**: Focuses on real-world use cases (Retail, Safety, Automation, Security).
 - 🚀 **1-Click Runnable**: Includes sample test images for immediate testing.

@@ -4,11 +4,7 @@
 
 ### *30 Days • 30 Hands-On Projects • OpenCV, YOLOv11, MediaPipe & PyTorch*
 
-[![Challenge Progress](https://img.shields.io/badge/Progress-25%2F30%20Days%20(83%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
+
 
 ---
 

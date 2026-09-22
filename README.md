@@ -18,7 +18,7 @@
 [█████████████████████████████████████░░░░░░░] 25 / 30 Days Completed (83.3%)
 ```
 
-⭐ **If you find this repository useful for learning Computer Vision, please consider giving it a STAR!** ⭐
+
 
 </div>
 

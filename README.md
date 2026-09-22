@@ -4,10 +4,11 @@
 
 ### *30 Days • 30 Hands-On Projects • OpenCV, YOLOv11, MediaPipe & PyTorch*
 
-[![Challenge Progress](https://img.shields.io/badge/Progress-23%2F30%20Days%20(77%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
+[![Challenge Progress](https://img.shields.io/badge/Progress-25%2F30%20Days%20(83%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Stars](https://img.shields.io/github/stars/manasha1232/30-Day-Computer-Vision-Challenge?style=for-the-badge&color=yellow)](https://github.com/manasha1232/30-Day-Computer-Vision-Challenge/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
 
 ---
@@ -15,10 +16,10 @@
 ### 📊 Challenge Progress Tracker
 
 ```text
-[█████████████████████████████████░░░░░░░░░░] 23 / 30 Days Completed (76.7%)
+[█████████████████████████████████████░░░░░░░] 25 / 30 Days Completed (83.3%)
 ```
 
-
+⭐ **If you find this repository useful for learning Computer Vision, please consider giving it a STAR!** ⭐
 
 </div>
 
@@ -76,9 +77,10 @@ Each day contains:
 | **21** | **Real-Time OMR Exam Scanner** | OpenCV, Perspective Warp | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/omr_exam_scanner) |
 | **22** | **3D Point Cloud Reconstruction** | OpenCV, Stereo Disparity | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/stereo_depth_3d_reconstruction) |
 | **23** | **AI QR Code & Barcode Scanner** | OpenCV, QRCodeDetector | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/ai_qr_barcode_scanner) |
-| **24** | **Real-Time Hand Landmark Air Canvas** | MediaPipe Hands, OpenCV | `UPCOMING` | ⏳ *In Progress* |
+| **24** | **Real-Time Hand Landmark Air Canvas** | MediaPipe Hands, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/hand_landmark_air_canvas) |
+| **25** | **Super-Resolution Image Upscaler & Detail Enhancer** | PyTorch, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/super_resolution_image_upscaler) |
 
-*(Days 25–30: Advanced Generative Vision, Transformer & Edge AI Modules)*
+*(Days 26–30: Advanced Generative Vision, Transformer & Edge AI Modules)*
 
 ---
 
@@ -155,6 +157,14 @@ Each day contains:
 ### 📱 [Day 23] AI QR Code & Barcode Scanner & Inventory Matrix
 - **Repository**: [`ai_qr_barcode_scanner`](https://github.com/manasha1232/ai_qr_barcode_scanner)
 - **Highlights**: Real-time AI QR Code and Barcode scanner with polygon finder target localization, payload decoding, automated warehouse database auditing, and stock telemetry dashboards.
+
+### 🎨 [Day 24] Real-Time Hand Landmark Air Canvas
+- **Repository**: [`hand_landmark_air_canvas`](https://github.com/manasha1232/hand_landmark_air_canvas)
+- **Highlights**: Contactless digital painting studio using MediaPipe 21 3D skeletal hand landmarks, top color selection HUD bar, hover/draw gesture state machine, pinch-distance brush sizing, and stroke anti-jitter smoothing.
+
+### 🔍 [Day 25] Super-Resolution Image Upscaler & Detail Enhancer
+- **Repository**: [`super_resolution_image_upscaler`](https://github.com/manasha1232/super_resolution_image_upscaler)
+- **Highlights**: Spatial magnification ($2\times$ and $4\times$) engine utilizing PyTorch Deep Residual Networks (EDSR) and Laplacian high-frequency edge enhancement, evaluating quantitative PSNR (dB), SSIM, and 4-panel split comparisons.
 
 ---
 

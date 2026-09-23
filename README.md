@@ -4,11 +4,11 @@
 
 ### *30 Days • 30 Hands-On Projects • OpenCV, YOLOv11, MediaPipe & PyTorch*
 
-[![Challenge Progress](https://img.shields.io/badge/Progress-25%2F30%20Days%20(83%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
+[![Challenge Progress](https://img.shields.io/badge/Progress-27%2F30%20Days%20(90%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-
+[![Stars](https://img.shields.io/github/stars/manasha1232/30-Day-Computer-Vision-Challenge?style=for-the-badge&color=yellow)](https://github.com/manasha1232/30-Day-Computer-Vision-Challenge/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
 
 ---
@@ -16,10 +16,10 @@
 ### 📊 Challenge Progress Tracker
 
 ```text
-[█████████████████████████████████████░░░░░░░] 25 / 30 Days Completed (83.3%)
+[████████████████████████████████████████░░░░] 27 / 30 Days Completed (90.0%)
 ```
 
-
+⭐ **If you find this repository useful for learning Computer Vision, please consider giving it a STAR!** ⭐
 
 </div>
 
@@ -79,8 +79,10 @@ Each day contains:
 | **23** | **AI QR Code & Barcode Scanner** | OpenCV, QRCodeDetector | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/ai_qr_barcode_scanner) |
 | **24** | **Real-Time Hand Landmark Air Canvas** | MediaPipe Hands, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/hand_landmark_air_canvas) |
 | **25** | **Super-Resolution Image Upscaler & Detail Enhancer** | PyTorch, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/super_resolution_image_upscaler) |
+| **26** | **Real-Time Dynamic Hand Gesture Action Recognizer** | MediaPipe Hands, PyTorch | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/realtime_hand_gesture_action_recognizer) |
+| **27** | **Vision Transformer (ViT) Classifier & Attention Visualizer** | PyTorch, ViT, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/vision_transformer_classifier) |
 
-*(Days 26–30: Advanced Generative Vision, Transformer & Edge AI Modules)*
+*(Days 28–30: Zero-Shot CLIP Vision, Edge-AI Safety & Generative Diffusion Modules)*
 
 ---
 
@@ -166,6 +168,14 @@ Each day contains:
 - **Repository**: [`super_resolution_image_upscaler`](https://github.com/manasha1232/super_resolution_image_upscaler)
 - **Highlights**: Spatial magnification ($2\times$ and $4\times$) engine utilizing PyTorch Deep Residual Networks (EDSR) and Laplacian high-frequency edge enhancement, evaluating quantitative PSNR (dB), SSIM, and 4-panel split comparisons.
 
+### 🖐️ [Day 26] Real-Time Dynamic Hand Gesture Action Recognizer
+- **Repository**: [`realtime_hand_gesture_action_recognizer`](https://github.com/manasha1232/realtime_hand_gesture_action_recognizer)
+- **Highlights**: Dynamic action gesture classifier tracking 21 MediaPipe 3D hand landmarks over temporal sliding window buffers to recognize swipes, pinches, rotations, and punches at 59 FPS with real-time velocity vector telemetry.
+
+### 🧠 [Day 27] Vision Transformer (ViT) Classifier & Attention Visualizer
+- **Repository**: [`vision_transformer_classifier`](https://github.com/manasha1232/vision_transformer_classifier)
+- **Highlights**: PyTorch Vision Transformer ($16 \times 16$ patch tokenization) classifier featuring Multi-Head Self-Attention (MHSA) rollout heatmap visualization, projecting neural focus back to pixel space with 4-panel grid visualizer.
+
 ---
 
 ## ⚡ Quickstart
@@ -181,7 +191,7 @@ pip install -r requirements.txt
 
 ---
 
-## 
+## 💡 Why Star This Repository?
 - 📖 **Comprehensive Reference**: 30 practical CV solutions with clean Python code.
 - 🏢 **Industry Relevant**: Focuses on real-world use cases (Retail, Safety, Automation, Security).
 - 🚀 **1-Click Runnable**: Includes sample test images for immediate testing.

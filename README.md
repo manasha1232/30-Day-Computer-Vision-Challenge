@@ -4,7 +4,7 @@
 
 ### *30 Days • 30 Hands-On Projects • OpenCV, YOLOv11, MediaPipe & PyTorch*
 
-[![Challenge Progress](https://img.shields.io/badge/Progress-27%2F30%20Days%20(90%25)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
+[![Challenge Progress](https://img.shields.io/badge/Progress-30%2F30%20Days%20(100%25%20COMPLETE)-brightgreen?style=for-the-badge&logo=target)](https://github.com/manasha1232)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0.0-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -15,10 +15,8 @@
 ### 📊 Challenge Progress Tracker
 
 ```text
-[████████████████████████████████████████░░░░] 27 / 30 Days Completed (90.0%)
+[████████████████████████████████████████████] 30 / 30 Days Completed (100.0% COMPLETE!)
 ```
-
-
 
 </div>
 
@@ -80,8 +78,11 @@ Each day contains:
 | **25** | **Super-Resolution Image Upscaler & Detail Enhancer** | PyTorch, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/super_resolution_image_upscaler) |
 | **26** | **Real-Time Dynamic Hand Gesture Action Recognizer** | MediaPipe Hands, PyTorch | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/realtime_hand_gesture_action_recognizer) |
 | **27** | **Vision Transformer (ViT) Classifier & Attention Visualizer** | PyTorch, ViT, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/vision_transformer_classifier) |
+| **28** | **Zero-Shot AI Object Detector & Tagging Engine using CLIP** | PyTorch, CLIP, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/zero_shot_clip_object_detector) |
+| **29** | **Edge-AI Autonomous Pedestrian Collision Risk Monitor** | YOLOv11, OpenCV, Kalman | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/edge_ai_collision_risk_monitor) |
+| **30** | **Text-Guided Generative AI Image Editing Studio** | PyTorch, Diffusion, OpenCV | `COMPLETED` | [📁 View Repo](https://github.com/manasha1232/generative_ai_image_editor) |
 
-*(Days 28–30: Zero-Shot CLIP Vision, Edge-AI Safety & Generative Diffusion Modules)*
+🎉 **CHALLENGE COMPLETED! ALL 30 HANDS-ON PROJECTS ARE FULLY FUNCTIONAL & VERIFIED!** 🎉
 
 ---
 
@@ -174,6 +175,18 @@ Each day contains:
 ### 🧠 [Day 27] Vision Transformer (ViT) Classifier & Attention Visualizer
 - **Repository**: [`vision_transformer_classifier`](https://github.com/manasha1232/vision_transformer_classifier)
 - **Highlights**: PyTorch Vision Transformer ($16 \times 16$ patch tokenization) classifier featuring Multi-Head Self-Attention (MHSA) rollout heatmap visualization, projecting neural focus back to pixel space with 4-panel grid visualizer.
+
+### 🔍 [Day 28] Zero-Shot AI Object Detector & Tagging Engine using CLIP
+- **Repository**: [`zero_shot_clip_object_detector`](https://github.com/manasha1232/zero_shot_clip_object_detector)
+- **Highlights**: Open-vocabulary zero-shot object detector using PyTorch CLIP vision-language cosine similarity embeddings and multi-scale region proposals to tag arbitrary natural language text queries without retraining.
+
+### 🚗 [Day 29] Edge-AI Autonomous Pedestrian Collision Risk Monitor
+- **Repository**: [`edge_ai_collision_risk_monitor`](https://github.com/manasha1232/edge_ai_collision_risk_monitor)
+- **Highlights**: Autonomous vehicle safety system using pinhole camera distance geometry, relative approach velocity vectors, and Time-To-Collision ($\text{TTC} = d / v$) metrics to trigger dynamic visual cockpit warning banners.
+
+### 🎨 [Day 30] Text-Guided Generative AI Image Editing Studio (GRAND FINALE)
+- **Repository**: [`generative_ai_image_editor`](https://github.com/manasha1232/generative_ai_image_editor)
+- **Highlights**: Grand finale capstone project featuring PyTorch generative latent diffusion inpainting, interactive ROI mask selection, text prompt guidance, multi-scale Gaussian Laplacian boundary feathering, and 4-panel visualizer grid.
 
 ---
 
